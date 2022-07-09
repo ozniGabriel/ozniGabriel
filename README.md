@@ -1,6 +1,6 @@
 ### Olá Devs! 👋
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Angular
 
 <div align="center">
   <a href="https://github.com/ozniGabriel">
